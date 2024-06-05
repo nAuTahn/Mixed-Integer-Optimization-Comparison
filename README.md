@@ -1,3 +1,7 @@
+<p align="center">
+<img width="600" alt="188303830-aa7b11d0-c6ff-4d1a-9bd8-2ccbf4d7e2dd" src="https://github.com/nAuTahn/Mixed-Integer-Optimization-Comparison/blob/main/plot_compare.png">
+</p>
+
 # CMA-ES and its problem
 
 $$ f(x) = x_0^2 + x_1^2 \text{ , where } x_0 \in \mathbb{R}, x_1 \in \mathbb{Z} \text{.} $$
